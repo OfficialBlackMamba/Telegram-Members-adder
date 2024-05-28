@@ -19,16 +19,16 @@
 
 <details><summary><h3>OTHER TELEGRAM TOOLS😎</h3></summary>
   
-   <p align="center"><a href="https://github.com/OfficialBlackMamba/TELEGRAM-MASS-DM-BOT"><img src="https://github-readme-stats.vercel.app/api/pin?username=OfficialBlackMamba&show_icons=true&theme=dracula&hide_border=true&repo=TELEGRAM-MASS-DM-BOT"></a></p>
+   <p align="center"><a href="https://github.com/OfficialBlackMamba/Telegram-Members-adder"><img src="https://github-readme-stats.vercel.app/api/pin?username=OfficialBlackMamba&show_icons=true&theme=dracula&hide_border=true&repo=Telegram-Members-adder"></a></p>
 
 <p align="center">
 
 
-   <p align="center"><a href="https://github.com/OfficialBlackMamba/TelegramAdder"><img src="https://github-readme-stats.vercel.app/api/pin?username=OfficialBlackMamba&show_icons=true&theme=dracula&hide_border=true&repo=TelegramAdder"></a></p>
+   <p align="center"><a href="https://github.com/OfficialBlackMamba/Telegram-Members-adder"><img src="https://github-readme-stats.vercel.app/api/pin?username=OfficialBlackMamba&show_icons=true&theme=dracula&hide_border=true&repo=Telegram-Members-adder"></a></p>
 
 <p align="center">
 
-   <p align="center"><a href="https://github.com/OfficialBlackMamba/TelegramScraper"><img src="https://github-readme-stats.vercel.app/api/pin?username=OfficialBlackMamba&show_icons=true&theme=dracula&hide_border=true&repo=TelegramScraper"></a></p>
+   <p align="center"><a href="https://github.com/OfficialBlackMamba/Telegram-Members_adder"><img src="https://github-readme-stats.vercel.app/api/pin?username=OfficialBlackMamba&show_icons=true&theme=dracula&hide_border=true&repo=Telegram-Members_adder"></a></p>
 
 <p align="center">
 
@@ -38,7 +38,7 @@
 ### Version 3.0
 > ***Version 3.0*** `This is Version 2.0 Tool based on telethon. If you want to use v3.0 based on pyrogram visit on. Mentioned repository`
 
-<p align="center"><a href="https://github.com/OfficialBlackMamba/TelegramAdderTool"><img src="https://github-readme-stats.vercel.app/api/pin?username=OfficialBlackMamba&show_icons=true&theme=dracula&hide_border=true&repo=TelegramAdderTool"></a></p>
+<p align="center"><a href="https://github.com/OfficialBlackMamba/Telegram-Members-adder"><img src="https://github-readme-stats.vercel.app/api/pin?username=OfficialBlackMamba&show_icons=true&theme=dracula&hide_border=true&repo=Telegram-Members-adder"></a></p>
 
 <p align="center">
 
