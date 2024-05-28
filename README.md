@@ -1,4 +1,4 @@
-> ***Important Notice ‼️*** ``Its may possible this script will no longer will be worker and i havent much time to update it and make it workable. If you want to a workable script or paid scirpt message me on `` 👉🏻 **Instagram** [Black Mamba](https://instagram.com/SukhpalInsta) or 👉🏻 **Telegram** [@Black Mamba](https://t.me/ITZ_ME_BLACKMAMBA) 
+> ***Important Notice ‼️*** ``Its may possible this script will no longer will be worker and i havent much time to update it and make it workable. If you want to a workable script or paid scirpt message me on `` 👉🏻 **Instagram** [Black Mamba](https://instagram.com/SukhpalInsta) or 👉🏻 **Telegram** [Black Mamba](https://t.me/ITZ_ME_BLACKMAMBA) 
 
 <details><summary><h3>ABOUT😎</h3></summary>
   
