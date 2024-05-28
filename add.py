@@ -1,7 +1,7 @@
 '''
-================SAIFALISEW1508=====================
+================BLACKMAMBA=====================
 Telegram members adding script
-Coded by a kid- github.com/saifalisew1508
+Coded by a kid- github.com/OfficialBlackMamba
 Apologies if anything in the code is dumb :)
 Copy with credits
 ************************************************
@@ -57,8 +57,8 @@ def banner():
     for char in b:
         print(f'{random.choice(colors)}{char}{rs}')
     print('Contact below address for get premium script')
-    print(f'{lg}Version: {w}2.0{lg} | GitHub: {w}@saifalisew1508{rs}')
-    print(f'{lg}Telegram: {w}@DearSaif{lg} | Instagram: {w}@_Prince.Babu_{rs}')
+    print(f'{lg}Version: {w}2.0{lg} | GitHub: {w}@OfficialBlackMamba{rs}')
+    print(f'{lg}Telegram: {w}@ITZ_ME_BLACKMAMBA{lg} | Instagram: {w}@SukhpalInsta{rs}')
 
 
 # function to clear screen
