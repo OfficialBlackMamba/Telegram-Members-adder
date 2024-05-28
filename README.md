@@ -139,7 +139,7 @@ Sometimes users may not get added at all, this may be because the account is pro
 
 
 <h2 align="center">Visitors Counts👀</h2>
-<a href="https://github.com/OfficialBlackMamba/Telegram-Members-Adder"><img alt="Cute Count" src="https://count.getloli.com/get/@Telegram-Members-Adder?theme=rule34" /></a>
+<a href="https://github.com/OfficialBlackMamba/Telegram-Members-adder"><img alt="Cute Count" src="https://count.getloli.com/get/@Telegram-Members-adder?theme=rule34" /></a>
 
 ### Contribution
 - Dont Fork this repo without credit.
