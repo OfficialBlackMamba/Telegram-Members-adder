@@ -34,8 +34,8 @@ def banner():
     for char in b:
         print(f'{random.choice(colors)}{char}{n}')
     print('Contact below address for get premium script')
-    print(f'{lg}Version: {w}2.0{lg} | GitHub: {w}@saifalisew1508{rs}')
-    print(f'{lg}Telegram: {w}@DearSaif{lg} | Instagram: {w}@_Prince.Babu_{rs}')
+    print(f'{lg}Version: {w}2.0{lg} | GitHub: {w}@OfficialBlackMamba{rs}')
+    print(f'{lg}Telegram: {w}@ITZ_ME_BLACKMAMBA{lg} | Instagram: {w}@SukhpalInsta{rs}')
 
 def clr():
     if os.name == 'nt':
@@ -138,8 +138,8 @@ while True:
         # thanks to github.com/th3unkn0n for the snippet below
         print(f'\n{lg}[i] Checking for updates...')
         try:
-           #  https://raw.githubusercontent.com/saifalisew1508/Telegram-Members-Adder/main/version.txt
-            version = requests.get('https://raw.githubusercontent.com/saifalisew1508/Telegram-Members-Adder/main/version.txt')
+           #  https://raw.githubusercontent.com/OfficialBlackMamba/Telegram-Members-Adder/main/version.txt
+            version = requests.get('https://raw.githubusercontent.com/OfficialBlackMamba/Telegram-Members-Adder/main/version.txt')
         except:
             print(f'{r} You are not connected to the internet')
             print(f'{r} Please connect to the internet and retry')
@@ -155,8 +155,8 @@ while True:
                     os.system('rm add.py')
                     os.system('rm manager.py')
                 #os.system('del scraper.py')
-                os.system('curl -l -O https://raw.githubusercontent.com/saifalisew1508/Telegram-Members-Adder/main/add.py')
-                os.system('curl -l -O https://raw.githubusercontent.com/saifalisew1508/Telegram-Members-Adder/main/manager.py')
+                os.system('curl -l -O https://raw.githubusercontent.com/OfficialBlackMamba/Telegram-Members-Adder/main/add.py')
+                os.system('curl -l -O https://raw.githubusercontent.com/OfficialBlackMamba/Telegram-Members-Adder/main/manager.py')
                 print(f'{lg}[*] Updated to version: {version.text}')
                 input('Press enter to exit...')
                 exit()
