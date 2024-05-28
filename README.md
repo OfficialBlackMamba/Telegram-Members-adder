@@ -1,17 +1,17 @@
-> ***Important Notice ‼️*** ``Its may possible this script will no longer will be worker and i havent much time to update it and make it workable. If you want to a workable script or paid scirpt message me on `` 👉🏻 **Instagram** [@\_Prince.Babu\_](https://instagram.com/saifaliopp) or 👉🏻 **Telegram** [@DearSaif](https://t.me/DearSaif) 
+> ***Important Notice ‼️*** ``Its may possible this script will no longer will be worker and i havent much time to update it and make it workable. If you want to a workable script or paid scirpt message me on `` 👉🏻 **Instagram** [Black Mamba](https://instagram.com/SukhpalInsta) or 👉🏻 **Telegram** [@Black Mamba](https://t.me/ITZ_ME_BLACKMAMBA) 
 
 <details><summary><h3>ABOUT😎</h3></summary>
   
-[![Sparkline](https://stars.medv.io/saifalisew1508/Telegram-Members-Adder.svg)](https://stars.medv.io/saifalisew1508/Telegram-Members-Adder)
+[![Sparkline](https://stars.medv.io/OfficialBlackMamba/Telegram-Members-Adder.svg)](https://stars.medv.io/OfficialBlackMamba/Telegram-Members-Adder)
 [![](https://img.shields.io/badge/TelegramMembersAdder-v1.0-darkgreen)](#)
-![Download](https://img.shields.io/github/downloads/saifalisew1508/Telegram-Members-Adder/total?style=social)
-[![Fork](https://img.shields.io/github/forks/saifalisew1508/Telegram-Members-Adder?style=social)](https://github.com/saifalisew1508/Telegram-Members-Adder/fork)
-[![Stars](https://img.shields.io/github/stars/saifalisew1508/Telegram-Members-Adder?style=social)](https://github.com/saifalisew1508/Telegram-Members-Adder/stargazers)
-![Languages](https://img.shields.io/github/languages/count/saifalisew1508/Telegram-Members-Adder?style=social)
-[![Release](https://img.shields.io/github/release-date/saifalisew1508/Telegram-Members-Adder?style=social)](https://github.com/saifalisew1508/Telegram-Members-Adder)   
-![Size](https://img.shields.io/github/languages/code-size/saifalisew1508/Telegram-Members-Adder?style=social)
-![Python](https://img.shields.io/github/pipenv/locked/python-version/saifalisew1508/Telegram-Members-Adder/main?style=social)
-[![Contributors](https://img.shields.io/github/contributors/saifalisew1508/Telegram-Members-Adder?style=social)](https://github.com/saifalisew1508/Telegram-Members-Adder/graphs/contributors)
+![Download](https://img.shields.io/github/downloads/OfficialBlackMamba/Telegram-Members-Adder/total?style=social)
+[![Fork](https://img.shields.io/github/forks/OfficialBlackMamba/Telegram-Members-Adder?style=social)](https://github.com/OfficialBlackMamba/Telegram-Members-Adder/fork)
+[![Stars](https://img.shields.io/github/stars/OfficialBlackMamba/Telegram-Members-Adder?style=social)](https://github.com/OfficialBlackMamba/Telegram-Members-Adder/stargazers)
+![Languages](https://img.shields.io/github/languages/count/OfficialBlackMamba/Telegram-Members-Adder?style=social)
+[![Release](https://img.shields.io/github/release-date/OfficialBlackMamba/Telegram-Members-Adder?style=social)](https://github.com/OfficialBlackMamba/Telegram-Members-Adder)   
+![Size](https://img.shields.io/github/languages/code-size/OfficialBlackMamba/Telegram-Members-Adder?style=social)
+![Python](https://img.shields.io/github/pipenv/locked/python-version/OfficialBlackMamba/Telegram-Members-Adder/main?style=social)
+[![Contributors](https://img.shields.io/github/contributors/OfficialBlackMamba/Telegram-Members-Adder?style=social)](https://github.com/OfficialBlackMamba/Telegram-Members-Adder/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social)](https://makeapullrequest.com)  
 </p>
 </details>
@@ -19,16 +19,16 @@
 
 <details><summary><h3>OTHER TELEGRAM TOOLS😎</h3></summary>
   
-   <p align="center"><a href="https://github.com/saifalisew1508/TELEGRAM-MASS-DM-BOT"><img src="https://github-readme-stats.vercel.app/api/pin?username=saifalisew1508&show_icons=true&theme=dracula&hide_border=true&repo=TELEGRAM-MASS-DM-BOT"></a></p>
+   <p align="center"><a href="https://github.com/OfficialBlackMamba/TELEGRAM-MASS-DM-BOT"><img src="https://github-readme-stats.vercel.app/api/pin?username=OfficialBlackMamba&show_icons=true&theme=dracula&hide_border=true&repo=TELEGRAM-MASS-DM-BOT"></a></p>
 
 <p align="center">
 
 
-   <p align="center"><a href="https://github.com/saifalisew1508/TelegramAdder"><img src="https://github-readme-stats.vercel.app/api/pin?username=saifalisew1508&show_icons=true&theme=dracula&hide_border=true&repo=TelegramAdder"></a></p>
+   <p align="center"><a href="https://github.com/OfficialBlackMamba/TelegramAdder"><img src="https://github-readme-stats.vercel.app/api/pin?username=OfficialBlackMamba&show_icons=true&theme=dracula&hide_border=true&repo=TelegramAdder"></a></p>
 
 <p align="center">
 
-   <p align="center"><a href="https://github.com/saifalisew1508/TelegramScraper"><img src="https://github-readme-stats.vercel.app/api/pin?username=saifalisew1508&show_icons=true&theme=dracula&hide_border=true&repo=TelegramScraper"></a></p>
+   <p align="center"><a href="https://github.com/OfficialBlackMamba/TelegramScraper"><img src="https://github-readme-stats.vercel.app/api/pin?username=OfficialBlackMamba&show_icons=true&theme=dracula&hide_border=true&repo=TelegramScraper"></a></p>
 
 <p align="center">
 
@@ -38,7 +38,7 @@
 ### Version 3.0
 > ***Version 3.0*** `This is Version 2.0 Tool based on telethon. If you want to use v3.0 based on pyrogram visit on. Mentioned repository`
 
-<p align="center"><a href="https://github.com/saifalisew1508/TelegramAdderTool"><img src="https://github-readme-stats.vercel.app/api/pin?username=saifalisew1508&show_icons=true&theme=dracula&hide_border=true&repo=TelegramAdderTool"></a></p>
+<p align="center"><a href="https://github.com/OfficialBlackMamba/TelegramAdderTool"><img src="https://github-readme-stats.vercel.app/api/pin?username=OfficialBlackMamba&show_icons=true&theme=dracula&hide_border=true&repo=TelegramAdderTool"></a></p>
 
 <p align="center">
 
@@ -73,7 +73,7 @@
 * First Open Termux App
 
 ```
-apt update && apt upgrade && pkg install -y git python && pkg update && pkg upgrade && pkg install python git && git clone https://github.com/saifalisew1508/Telegram-Members-Adder.git
+apt update && apt upgrade && pkg install -y git python && pkg update && pkg upgrade && pkg install python git && git clone https://github.com/OfficialBlackMamba/Telegram-Members-Adder.git
 ```
 
 ```
@@ -120,8 +120,8 @@ Sometimes users may not get added at all, this may be because the account is pro
 
 ## 💰 Support Me
 
-<a href="https://ko-fi.com/saifalisew1508" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="saifalisew1508" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
-<a href="https://www.paypal.me/saifalisew1508" class="padded"><img height="30" style="border:0px;height:30px;" align="centre" alt="saifalisew1508" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
+<a href="https://ko-fi.com/OfficialBlackMamba" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="OfficialBlackMamba" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
+<a href="https://www.paypal.me/OfficialBlackMamba" class="padded"><img height="30" style="border:0px;height:30px;" align="centre" alt="OfficialBlackMamba" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
 
 ### Warning
 
@@ -131,19 +131,18 @@ Sometimes users may not get added at all, this may be because the account is pro
 
 * I have also created a scraper and adder which lets you add accounts via phone number, api_id and api_hash. If you need it contact me:
 
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-brightgreen)](https://t.me/saifalisew15O8) 
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-brightgreen)](https://t.me/PrinceXofficial) 
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-brightgreen)](https://t.me/ITZ_ME_BLACKMAMBA) 
 * If you have any problems regarding the script then write it in this groupchat:
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/PublicSource_Chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/ABOUT_SAIF)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/MAMBA_UPDATES_CHAT)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/MAMBA_UPDATES)
 
 
 <h2 align="center">Visitors Counts👀</h2>
-<a href="https://github.com/saifalisew1508/Telegram-Members-Adder"><img alt="Cute Count" src="https://count.getloli.com/get/@Telegram-Members-Adder?theme=rule34" /></a>
+<a href="https://github.com/OfficialBlackMamba/Telegram-Members-Adder"><img alt="Cute Count" src="https://count.getloli.com/get/@Telegram-Members-Adder?theme=rule34" /></a>
 
 ### Contribution
-- Fork this repo.
+- Dont Fork this repo without credit.
 - Add new features.
 - Create a new pull request for this branch.
 
